@@ -1,0 +1,16 @@
+in C the main function has to return int
+scanf("%d",&testInteger) to get input
+& means address
+%d for an integer
+%f for a float
+%s for a string
+
+to get in: ssh gh2354@access.cims.nyu.edu
+password: ucdM=n5!
+
+to compile:
+gcc -g -o [file name] [file name].c
+
+
+scp [source] [destination]
+filezilla
